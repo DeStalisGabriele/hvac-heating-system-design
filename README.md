@@ -46,19 +46,14 @@ The building has 8 apartments (~90 m² each), symmetric both vertically and hori
 ```
 report/                       Original technical report (Italian, as submitted)
 calculations/
-  building-envelope/          Wall & floor stratigraphy, opaque/glazed surfaces,
-                               attic, basement, ventilation & thermal bridges dispersion
-  total-loads/                Per-room and whole-building thermal load summary
-  distribution-network/       Radiator reference data, pipe sizing
-  pump-head/                  Distributed & localized head losses, pump selection
-  heat-generator/             Generator selection and performance
-  chimney-sizing/             Flue gas flow rates, geometry, draft verification
+  HVAC_Calculations.xlsx      All calculation tables, formatted and translated to English,
+                               one sheet per topic (envelope, loads, network, pump, generator, chimney)
   sources.md                  Standards, manufacturer data sheets used
 drawings/                     AutoCAD MEP exports (floor plans, network layout)
 images/                       Figures referenced in the report
 ```
 
-All tables are provided as plain CSV files with translated (English) headers, split by calculation topic, so individual results can be checked or reused without opening the full report.
+`HVAC_Calculations.xlsx` consolidates every table from the original report into a single, formatted workbook (translated headers, styled sections, bold totals, landscape print layout) so individual results can be checked or reused without opening the full PDF report.
 
 ## Tools used
 
