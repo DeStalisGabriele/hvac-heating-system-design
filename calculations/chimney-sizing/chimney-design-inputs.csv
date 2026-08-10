@@ -1,0 +1,11 @@
+parameter,value,unit
+Chimney height z,7.5,m
+Flue gas mass flow Gf,0.0152,kg/s
+Flue gas inlet temperature Tin,465.8,K
+Flue gas outlet temperature Tout,433.46,K
+Mean flue gas temperature Tm,449.4,K
+Heat transfer coefficient (double-wall insulated stainless flue) U,0.943,W/m2K
+Flue gas specific heat cp,1.005,kJ/(kg K)
+External average seasonal temperature Te,278,K
+External air density rho_e,1.31,kg/m3
+Mean flue gas density rho_f,0.7837,kg/m3

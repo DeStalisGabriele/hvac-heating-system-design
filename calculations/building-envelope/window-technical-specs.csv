@@ -1,0 +1,6 @@
+parameter,value,unit
+Model,Winergetic Premium Passive (Oknoplast),
+Glass transmittance Ug,0.3,W/m2K
+Window transmittance Uw,0.6,W/m2K
+Acoustic insulation,33,dB
+Glazing,Quadruple low-emissivity + argon gas,

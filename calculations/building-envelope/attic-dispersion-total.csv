@@ -1,0 +1,3 @@
+parameter,value,unit,note
+Total attic dispersion,4162.4,kW,"as reported in original report - order of magnitude suggests this may actually be W; kept as in source, verify before reuse"
+Attic reference temperature,-2.7,C,"per UNI 7357, non-plafonated attic with sealed tiles"

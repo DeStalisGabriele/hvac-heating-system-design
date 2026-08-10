@@ -1,0 +1,3 @@
+description,relative_power_pct,useful_power_W,efficiency,absorbed_power_W,losses_W
+Nominal boiler power,100,32000,0.982,32587,587
+Power required by building,86.5,27132,0.980,27686,554

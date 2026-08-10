@@ -1,0 +1,33 @@
+apartment,room,base_area_m2,volume_m3,air_change_rate_vol_h,ventilation_flow_kg_s,phi_vent_W,phi_thermal_bridges_W
+South apartment,Bedroom 1,24.20,57.20,8.20,0.08,245.40,26.20
+South apartment,Bathroom,19.20,26.40,2.00,0.14,386.20,0.00
+South apartment,Bedroom 2,12.00,36.00,8.20,0.06,178.40,18.20
+South apartment,Living room,24.00,72.00,8.20,0.12,341.40,21.40
+South apartment,Kitchen,18.20,39.20,1.00,0.11,297.00,27.20
+South apartment,Corridor,10.20,31.00,8.20,0.04,104.10,0.00
+South apartment,TOTAL,107.80,261.80,,0.55,1552.50,93.00
+South apartment,TOTAL SOUTH,,,,,3105.00,186.00
+North apartment,Bedroom 1,24.20,57.20,8.20,0.08,245.40,25.20
+North apartment,Bathroom,19.20,26.40,2.00,0.14,386.20,0.00
+North apartment,Bedroom 2,12.00,36.00,8.20,0.06,178.40,22.20
+North apartment,Living room,24.00,72.00,8.20,0.12,341.40,26.00
+North apartment,Kitchen,18.20,39.20,1.00,0.11,297.00,29.40
+North apartment,Corridor,10.20,31.00,8.20,0.04,104.10,0.00
+North apartment,TOTAL,107.80,261.80,,0.55,1552.50,102.60
+North apartment,TOTAL NORTH,,,,,3105.00,205.20
+South-East apartment,Bedroom 1,24.20,57.20,8.20,0.08,245.40,46.40
+South-East apartment,Bathroom,19.20,26.40,2.00,0.14,386.20,0.00
+South-East apartment,Bedroom 2,12.00,36.00,8.20,0.06,178.40,21.20
+South-East apartment,Living room,24.00,72.00,8.20,0.12,341.40,23.40
+South-East apartment,Kitchen,18.20,39.20,1.00,0.11,297.00,29.20
+South-East apartment,Corridor,10.20,31.00,8.20,0.04,104.10,0.00
+South-East apartment,TOTAL,107.80,261.80,,0.55,1552.50,120.20
+South-East apartment,TOTAL SE/SW,,,,,3105.00,240.40
+North-West apartment,Bedroom 1,24.20,57.20,8.20,0.08,245.40,51.20
+North-West apartment,Bathroom,19.20,26.40,2.00,0.14,386.20,0.00
+North-West apartment,Bedroom 2,12.00,36.00,8.20,0.06,178.40,21.20
+North-West apartment,Living room,24.00,72.00,8.20,0.12,341.40,23.40
+North-West apartment,Kitchen,18.20,39.20,1.00,0.11,297.00,29.20
+North-West apartment,Corridor,10.20,31.00,8.20,0.04,104.10,0.00
+North-West apartment,TOTAL,107.80,261.80,,0.55,1552.50,125.00
+North-West apartment,TOTAL NW/NE,,,,,3105.00,250.00

@@ -1,0 +1,9 @@
+parameter,value,unit
+Selected generator,Viessmann Vitodens 200-W (condensing wall-hung boiler),
+Nominal useful power,32,kW
+Minimum modulated power,1.9,kW
+Efficiency at full load,98.2,%
+Efficiency at partial load,109.6,%
+Modulation ratio,1:20,
+Required generator power (Phi_gen > 1.15 x Phi_d),31.84,kW
+Design thermal load Phi_d,27.69,kW

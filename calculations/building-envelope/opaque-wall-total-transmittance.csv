@@ -1,0 +1,4 @@
+parameter,value,unit
+Total wall transmittance U,0.238,W/m2K
+Internal surface heat transfer coefficient alpha_int,7.78,W/m2K
+External surface heat transfer coefficient alpha_ext,22.5,W/m2K

@@ -1,0 +1,8 @@
+layer_number,layer_name,thickness_m,conductivity_W_mK,resistance_R_m2K_W
+1,Internal plaster (lime and gypsum),0.015,0.7,0.021
+2,Load-bearing brick block (heavy),0.25,0.27,0.926
+3,Insulation panel (XPS),0.08,0.031,2.581
+4,Unventilated air gap,0.04,,0.18
+5,Hollow brick (light protective layer),0.08,0.27,0.296
+6,External plaster (lime/cement),0.015,0.8,0.019
+,TOTAL,0.48,,4.023

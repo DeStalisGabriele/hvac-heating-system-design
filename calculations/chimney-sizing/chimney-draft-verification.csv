@@ -1,0 +1,6 @@
+parameter,value,unit
+Static draft Ps,38.2,Pa
+Distributed losses dPd,5.25,Pa
+Localized losses dPl,5.25,Pa
+Net draft P_netto,27.7,Pa
+Result,Positive net draft - natural draft is sufficient; no forced draft device required,

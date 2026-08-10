@@ -1,0 +1,12 @@
+parameter,value,unit
+Most unfavorable point,Bathroom - North-West apartment,
+Required head loss,128.398,kPa
+Required flow rate,0.568,L/s
+Selected pump model,Grundfos CR 3-5 A-A-A-V-HQQV,
+Operating flow rate Q,2.092,m3/h
+Operating head H,17.63,m
+Pump efficiency,52.8,%
+Pump+motor efficiency,39,%
+Absorbed power P1,257.1,W
+Shaft power P2,190,W
+NPSH,1.22,m

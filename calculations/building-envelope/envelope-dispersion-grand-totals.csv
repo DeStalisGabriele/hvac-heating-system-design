@@ -1,0 +1,8 @@
+parameter,value,unit
+Opaque surfaces,1535.8,kW (as in source; possibly W)
+Glazed surfaces,1600.8,kW (as in source; possibly W)
+Attic,4162.4,kW (as in source; possibly W)
+Basement,2038.1,kW (as in source; possibly W)
+Thermal bridges,881.6,W
+Ventilation,12420,kW (as in source; possibly W)
+Total dispersed power (whole building),27685.52,W

@@ -1,0 +1,7 @@
+parameter,value,unit
+Heating fluid,Water,
+Specific heat cH2O,4186,J/(kg K)
+Supply temperature,76,C
+Return temperature,64,C
+Delta T,12,C
+Target pipe velocity,1,m/s

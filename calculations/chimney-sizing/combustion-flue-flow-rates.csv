@@ -1,0 +1,7 @@
+parameter,symbol,value,unit
+Absorbed power,Phi_ass,31012,W
+Fuel volumetric flow rate,Qc,3.12,Sm3/h
+Combustion air volumetric flow rate,Q_aria,34.17,m3/h
+Fuel mass flow rate,Gc,5.96e-4,kg/s
+Air mass flow rate,G_aria,0.01139,kg/s
+Flue gas mass flow rate,Gf,0.0120,kg/s

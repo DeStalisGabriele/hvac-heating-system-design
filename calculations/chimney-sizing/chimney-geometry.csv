@@ -1,0 +1,7 @@
+parameter,value,unit
+Flue gas velocity w,2.0,m/s
+Internal cross-section S,0.008,m2
+Internal diameter D,0.11,m
+Heat exchange surface A,2.59,m2
+Material,Stainless steel 316L,
+Type,Insulated double-wall,

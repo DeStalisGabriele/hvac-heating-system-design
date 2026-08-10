@@ -1,0 +1,9 @@
+parameter,value,unit
+Model,TEMA 4/681,
+Height,686,mm
+Center-to-center distance,623,mm
+Depth,128,mm
+Pitch,60,mm
+Water content,0.97,L
+Weight,7.5,kg
+Heat output (deltaT=50C),112.1,W per element

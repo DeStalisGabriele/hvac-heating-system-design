@@ -1,0 +1,29 @@
+apartment,room,phi_total_W,room_mass_flow_kg_s,pipe_section_area_m2,ideal_diameter_mm,standardized_diameter_mm,average_pipe_velocity_m_s,number_of_elements
+South,Bedroom 1,16.50,0.0056,0.0056,0.1388,4.0,0.4354,4
+South,Bathroom,29.38,0.0097,0.0097,0.1826,5.0,0.4965,7
+South,Bedroom 2,19.75,0.0063,0.0063,0.1576,4.0,0.5215,5
+South,Living room,37.33,0.0125,0.0125,0.2201,6.0,0.4382,8
+South,Kitchen,16.58,0.0056,0.0056,0.1375,4.0,0.4375,4
+South,Corridor,4.22,0.0014,0.0014,0.0833,3.0,0.1972,1
+South,TOTAL,123.76,0.0410,0.0410,0.9181,26.0,2.5264,
+North,Bedroom 1,16.50,0.0056,0.0056,0.1388,4.0,0.4354,4
+North,Bathroom,29.38,0.0097,0.0097,0.1826,5.0,0.4965,7
+North,Bedroom 2,19.75,0.0063,0.0063,0.1576,4.0,0.5215,5
+North,Living room,37.33,0.0125,0.0125,0.2201,6.0,0.4382,8
+North,Kitchen,16.58,0.0056,0.0056,0.1375,4.0,0.4375,4
+North,Corridor,4.22,0.0014,0.0014,0.0833,3.0,0.1972,1
+North,TOTAL,123.76,0.0410,0.0410,0.9181,26.0,2.5264,
+South-West / South-East,Bedroom 1,22.92,0.0076,0.0076,0.1757,4.0,0.6049,5
+South-West / South-East,Bathroom,35.42,0.0118,0.0118,0.2111,5.0,0.5986,8
+South-West / South-East,Bedroom 2,29.17,0.0097,0.0097,0.1813,5.0,0.4931,7
+South-West / South-East,Living room,50.00,0.0167,0.0167,0.2438,6.0,0.5868,11
+South-West / South-East,Kitchen,22.92,0.0076,0.0076,0.1757,4.0,0.6049,5
+South-West / South-East,Corridor,4.22,0.0014,0.0014,0.0833,3.0,0.1972,1
+South-West / South-East,TOTAL,164.64,0.0549,0.0549,1.0708,27.0,3.0854,
+North-West / North-East,Bedroom 1,22.92,0.0076,0.0076,0.1757,4.0,0.6049,5
+North-West / North-East,Bathroom,35.42,0.0118,0.0118,0.2111,5.0,0.5986,8
+North-West / North-East,Bedroom 2,29.17,0.0097,0.0097,0.1813,5.0,0.4931,7
+North-West / North-East,Living room,50.00,0.0167,0.0167,0.2438,6.0,0.5868,11
+North-West / North-East,Kitchen,22.92,0.0076,0.0076,0.1757,4.0,0.6049,5
+North-West / North-East,Corridor,4.22,0.0014,0.0014,0.0833,3.0,0.1972,1
+North-West / North-East,TOTAL,164.64,0.0549,0.0549,1.0708,27.0,3.0854,
