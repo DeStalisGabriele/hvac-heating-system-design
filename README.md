@@ -44,27 +44,39 @@ The building has 8 apartments (~90 m² each), symmetric both vertically and hori
 ## Repository structure
 
 ```
-report/                       Original technical report (Italian, as submitted)
+report/                       Technical report (Italian, as submitted)
 calculations/
-  HVAC_Calculations.xlsx      All calculation tables, formatted and translated to English,
-                               one sheet per topic (envelope, loads, network, pump, generator, chimney)
-  sources.md                  Standards, manufacturer data sheets used
-drawings/                     AutoCAD MEP exports (floor plans, network layout)
-images/                       Figures referenced in the report
+  HVAC_Calculations.xlsx      All calculation tables in one workbook, one sheet per topic
+                               (envelope, loads, network, pump, generator, chimney)
+  <topic>/*.csv               The same tables as plain CSV files
+  sources.md                  Standards and manufacturer data sheets used
+drawings/                     Floor plan, heating network layout and wall stratigraphy
 ```
 
-`HVAC_Calculations.xlsx` consolidates every table from the original report into a single, formatted workbook (translated headers, styled sections, bold totals, landscape print layout) so individual results can be checked or reused without opening the full PDF report.
+## Drawings
+
+**Floor plan** — two mirrored apartments per quarter of the building, 8 units in total:
+
+![Floor plan](drawings/floor-plan.jpg)
+
+**Heating network** — supply (red) and return (blue) circuits run in parallel from the central boiler room to the radiators placed under the windows:
+
+![Heating network layout](drawings/heating-network-layout.jpg)
+
+**External wall** — cavity wall with brick, 8 cm XPS / rock wool insulation and an air gap:
+
+![Wall stratigraphy](drawings/wall-stratigraphy.jpg)
 
 ## Tools used
 
-- **Excel / openpyxl** — thermal load calculations and automation
-- **AutoCAD MEP** — floor plan drafting and heating network layout
-- Manual calculations following UNI EN 12831-1, UNI EN ISO 6946, UNI 10349, UNI 5364, UNI 7357
+- **Excel** — thermal load and network calculations
+- **AutoCAD MEP** — floor plan and heating network layout
+- Calculations following UNI EN 12831-1, UNI EN ISO 6946, UNI 10349, UNI 5364, UNI 7357
 
-## Notes on data fidelity
+## Notes on the data
 
-The CSV tables are a direct, unmodified transcription of the values reported in the original technical report. A few subtotal figures in the original document are labeled "kW" where the order of magnitude suggests "W" was intended (a units slip in the original spreadsheet export); these are flagged with a note in the relevant CSV rather than silently corrected, so the data stays faithful to what was actually submitted and graded.
+The tables are copied from the submitted report without changes. In a few subtotals the report says "kW" where the values are clearly in W: these rows are marked with a note in the CSV files instead of being corrected.
 
 ## License
 
-Academic project — shared for portfolio purposes. Please do not submit this work, or derivatives of it, as your own for academic credit.
+Academic project shared as part of my portfolio. Please do not submit this work, or anything derived from it, for academic credit.
